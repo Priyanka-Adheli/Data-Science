@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains multiple lines of dummy data.
+You can use it to practice reading and writing files in Python.
+File handling is an important concept in programming.
+End of sample file.
